@@ -6,3 +6,5 @@
 ## [20251129 | 予測ターゲットを変えて生成品質の違いを確認](src/s_20251129_noise_pred_vs_data_pred/README.md)
 ![x-128](output/s_20251129_noise_pred_vs_data_pred/20251130_celeba/x_128_sample_epoch_010.png)
 
+If images are not displayed, see:
+[Google Drive version](https://drive.google.com/drive/folders/1Kb94RLbIJATne2_iRiAWTq0l78qK1Wxl?usp=sharing)
