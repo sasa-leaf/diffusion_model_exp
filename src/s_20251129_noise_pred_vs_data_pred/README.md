@@ -1,5 +1,9 @@
 # 予測対象を変えて生成品質の違いを確認
 
+<div align="right">
+作成者: sasa-leaf
+</div>
+
 ## 1. 概要
 
 * 論文 **"Back to Basics: Let Denoising Generative Models Denoise" (He et al., 2025\)**
