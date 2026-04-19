@@ -4,3 +4,4 @@ output/
 memo/
 __pycache__/
 *.py[cod]
+*.pdf
